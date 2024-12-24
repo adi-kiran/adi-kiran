@@ -9,9 +9,9 @@
 - A log file parsing application that alerts when there are dataflow or syncronization issues with log files and provides statistics on the number and types of errors found in the logs.
 
 🏢 Previously, I've worked as a **Software Engineer** at **Kickdrum Technologies** - in Bangalore, India - working on various projects using a variety of technologies. I worked closely with driven individuals from various development, devops and delivery teams, to develop and deploy clean, scalable and extensible cloud based solutions. Some interesting projects that I worked on at Kickdrum:
-- Desiged and deploed a search engine with filtering capabilities for semi-structured and unstructured documents using Elasticsearch, Python and React,
-- Refactored a massive monolith Java application with more then 200 packages (containing lots of cyclical dependencies) into a service oriented architecture based application,
-- Developed a webapp that can analyze an AWS account for resource usage and security and data reliability issues by assuming a role with read-only permissions without installing/setting up anything on the account like Config/ControlTower/etc.
+- Architected and deployed a search engine with filtering capabilities for semi-structured and unstructured documents using Elasticsearch, Python, React, and AWS,
+- Refactored a massive monolith Java application with more then 200 packages (containing lots of cyclical dependencies) into a service-oriented architecture and modernized the clients build workflows,
+- Developed a web app that can analyze an AWS account for resource usage and security and data reliability issues by assuming a role with read-only permissions without installing/setting up anything on the account like Config/ControlTower/etc.
 
 🔧 **Tech Stack** - I mostly work with **Python** and **Java** in the backend and **React** in the frontend. I have worked with **AWS** as the cloud platform at both Kickdrum and ScienceLogic. Here are a few technologies I am well-versed with: 
 
