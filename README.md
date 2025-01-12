@@ -4,7 +4,7 @@
 
 📖 I'm currently pursuing my Master's degree in Computer Science at **North Carolina State University** and will be graduating in May 2025. At NCSU I am focusing on the domains of Data Science, Machine Learning and Systems.
 
-🌞 Last summer (2024) I worked as an **SRE Intern** at **ScienceLogic** in Reston, VA. I worked with brilliant people in the SRE team and helped enhance the monitoring capabilities of the SL1 Platform and reduced manual efforts by developing automations for important processes. Some interesting projects I worked on:
+🌞 Last summer (2024) I worked as a **Software Engineer Intern** at **ScienceLogic** in Reston, VA. I worked with brilliant people in the SRE team and helped enhance the monitoring capabilities of the SL1 Platform and reduced manual efforts by developing automations for important processes. Some interesting projects I worked on:
 - A Jenkins job to automate the migration(from Oracle Linux 7 to Oracle Linux 8) and upgrading of a SaaS service, using Python and bash scripts
 - A log file parsing application that alerts when there are dataflow or syncronization issues with log files and provides statistics on the number and types of errors found in the logs.
 
